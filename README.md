@@ -47,7 +47,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Miracleamrafan/rayanser) 
+$ git clone https://replit.com/join/htslawjwlc-miracleamrafan
 $ cd rayanser
 $ npm i
 $ node julie.js
