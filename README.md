@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/miracleramfan/rayanser">RAYANSER<
 GET QR
 $ apt install git
 $ apt install nodejs https://github.com/Miracleamrafan/Rayanser✓v2git>
-$ git clone 
+$ git clone https://github.com/Miracleamrafan/Rayanser-Miracleramfan.git
 $ cd rayanser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
