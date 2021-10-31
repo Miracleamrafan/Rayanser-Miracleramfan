@@ -49,7 +49,7 @@ $ node julie.js
 SETUP
 $ git clone qr code "rayanser-v2"
 $ cd rayanser
-$ npm i adiwajshing/baileys
+$ npm i @adiwajshing/baileys
 $ node julie.js
 ```
 
