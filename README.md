@@ -37,7 +37,7 @@ Project created by <a href="https://github.com/miracleramfan/rayanser">RAYANSER<
 ```js
 GET QR
 $ apt install git
-$ apt install nodejs --fix-missing
+$ apt install nodejs https://github.com/Miracleamrafan/Rayanser_v2git.
 $ git clone 
 $ cd rayanser
 $ npm install @adiwajshing/baileys
