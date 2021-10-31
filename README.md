@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/miracleramfan/rayanser">RAYANSER<
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Miracleramfan/rayanser) 
   
-[![Run on Repl.it](https://replit.com/@rayanser/rayanser[https://replit.com/@Miracleamrafan/Amalser-3#index.js]
+[![Run on Repl.it](https://replit.com/@rayanser/rayanser[https://replit.com/@Miracleamrafan/rayanser-3#index.js]
   
 ### The Hard Method
 ```js
